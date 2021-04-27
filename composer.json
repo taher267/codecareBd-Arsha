@@ -1,0 +1,16 @@
+{
+    "name": "taher/arsha",
+    "description": "portifolio website",
+    "authors": [
+        {
+            "name": "ABU TAHER",
+            "email": "abutaher267@gmail.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4": {
+    		"Arsha\\" : "database"
+    	}
+    },
+    "require": {}
+}
