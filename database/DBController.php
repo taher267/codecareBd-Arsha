@@ -6,8 +6,8 @@ namespace Arsha;
 class DBController
 {
 	protected $host ="localhost";
-	protected $username ="arshauser";
-	protected $password ="arshapass";
+	protected $username ="root";
+	protected $password ="";
 	protected $database ="arsha";
 	public $conn = null;
 
